@@ -42,6 +42,11 @@ next-env.d.ts
 AGENTS.md
 CLAUDE.md
 
+# fichiers d'outillage agent (locaux, non versionnés)
+/.agents/
+skills-lock.json
+__pycache__/
+
 # documentation (locale, non versionnée)
 /docs/
 SPECIFICATION.md
